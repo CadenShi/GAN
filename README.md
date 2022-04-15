@@ -1,3 +1,3 @@
 # GAN
-GAN implementation with pytorch
+GAN implementation with pytorch  
 dataset: MNIST
